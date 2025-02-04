@@ -1,2 +1,3 @@
-idle 3.12
 python
+idle 3.12
+
